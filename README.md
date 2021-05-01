@@ -1,1 +1,1 @@
-# PlantD
+# Plant Disease Detection
